@@ -19,7 +19,7 @@
 ## Information
 *Andet info eks. klaner, relationer, specille effekter, etc.*
 ## Backstory (PDF)
-![[]]
+
 ## Character Sheet
 (Billeder el. PDF format)
 ### Tags

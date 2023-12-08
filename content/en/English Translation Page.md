@@ -1,5 +1,5 @@
 ---
-title: The World of Mar(t)ere
+title: The English Translation Page
 enableToc: false
 ---
 Hello and welcome!
@@ -8,7 +8,7 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 > [!info]
 > Most notes are **written in Danish** 🇩🇰 and will slowly be translated
 > 
-> For English translations see [[en/English Translation Page|The English Translation Page]]
+> For English translations see [[English Translation Page]]
 ## Sessions
 ### 🌱 Tales From Martere
 [[Marere/Martere/Player Notes/Sessions/Session 1|Session 1]] - "An unlikely encounter"
