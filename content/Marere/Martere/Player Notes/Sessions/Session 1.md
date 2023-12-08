@@ -7,7 +7,7 @@ tags:
 Møder [[The Party|alle]] i [[Frallige]]
 
 
-[[Dwargon Dragongrog|Dwargon]] blev stjålet penge fra i en krog
+[[../../Personer/The Party/Dwargon Dragongrog|Dwargon]] blev stjålet penge fra i en krog
 
   
 Fik underskrevet kontrakt om arbejde i [[Farlberg]]. Møde en person der hedder Heinrich der.
@@ -27,7 +27,7 @@ Vi når tilbage til [[Frallige]] til at finde en vogn til at rejse til Farlberg.
 Finder Bealin og får ham over til Vogn stedet, men [[The Duck|Anas]] går modsat vej og går til en rustning butik. [[Renna Genrie|Renna]] følger med.
 
 
-[[Dwargon Dragongrog|Dwargon]] og [[Thorin Ironfist|Thorin]] efter noget at drikke, men Thorin husker på en restaurant men kun en 10 minutters gårtur fra vognestedet. De venter i stedet ved vognstedet
+[[../../Personer/The Party/Dwargon Dragongrog|Dwargon]] og [[Thorin Ironfist|Thorin]] efter noget at drikke, men Thorin husker på en restaurant men kun en 10 minutters gårtur fra vognestedet. De venter i stedet ved vognstedet
 
 
 [[Jhaan Wolfris|Jhaan]] finder en butik med skilt omkring "magic items" og går ind. Han finder en Gnom der næsten aldrig får noget at spise, sælger Jhaan en ring der holder ham "varm" som hedder "Ring of Warmth".
