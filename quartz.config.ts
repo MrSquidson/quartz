@@ -3,12 +3,10 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 World of Mar(t)ere",
+    pageTitle: "World of Mar(t)ere",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     baseUrl: "quartz.tales-from-martere.dk",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -65,7 +63,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
