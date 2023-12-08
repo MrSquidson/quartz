@@ -23,7 +23,7 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 
 [[Marere/Martere/Player Notes/Sessions/Session 6|Session 6]] - "Deals and Handshakes"
 
-[[Marere/Martere/Player Notes/Sessions/Session 7|Session 7]] - ""
+[[Marere/Martere/Player Notes/Sessions/Session 7|Session 7]] - 
 ### 🌱 Tales of Marere
 [[Marere/Det Hellige Rige Skeltand/Player Notes/Sessions/Session 1|Session 1]] - "Hidden Rooms and Holy Fire"
 
