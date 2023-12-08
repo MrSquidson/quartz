@@ -17,7 +17,7 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 
 [[Marere/Martere/Player Notes/Sessions/Session 3|Session 3]] - "Ambushed?"
 
-[[Marere/Martere/Player Notes/Sessions/Session 4|Session 4]] - "Wet Feet"
+[[content/Marere/Martere/Player Notes/Sessions/Session 4|Session 4]] - "Wet Feet"
 
 [[Marere/Martere/Player Notes/Sessions/Session 5|Session 5]] - "Dry Land and Green Forests"
 
