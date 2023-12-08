@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+tags:
+  - Groups
 ---
 #Organisation
 Black maple guild er en gruppering af soldater fra dværg imperiet [[Fralbal]]'s nordlige hær.

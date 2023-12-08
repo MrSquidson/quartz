@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+tags:
+  - Characters
 ---
 #TheParty 
 [[Elf|Elver]]

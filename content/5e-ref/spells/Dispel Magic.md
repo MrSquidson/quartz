@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Dispel Magic
 
 *3rd-level abjuration*

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #By #Land #Lokation 
 # The Magicratic State of Tinis
 One of the [[The Isle of Martere]] located on the Martere Island...

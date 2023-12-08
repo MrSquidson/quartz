@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Player Char
  Thorbjørn | Renna Genrie - Tiefling
  Daniel | Bealin Genrie - Tiefling

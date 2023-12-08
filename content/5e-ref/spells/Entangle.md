@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Entangle
 
 *1st-level conjuration*

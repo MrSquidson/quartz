@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #By #Lokation 
 # Glødrod
 Glødrod er [[Fralbal]]'s mønt centrum!

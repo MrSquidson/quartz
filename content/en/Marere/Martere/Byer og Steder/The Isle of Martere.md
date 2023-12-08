@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 De 4 lande på ø-kontinentet Martere er;
 ![[Map.png]]
 - [[Fralbal]] Det største og mest stabile land der har kontrol over den nordøstlige bjergkæde som de bruger til at forsvare dem selv

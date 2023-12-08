@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+tags:
+  - Characters
 ---
 #TheParty 
 En af [[Genrie Tvillingerne]]

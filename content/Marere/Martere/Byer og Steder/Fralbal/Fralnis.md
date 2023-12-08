@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #By #Lokation 
 Fralnis er en mellemstor by der ligger som forstad til [[Frallige]] i dværg emperiet [[Fralbal]].
 Byen fungere som levested til de lokale dværge der arbejder i [[Frallige]]

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #By #Land #Lokation 
 # The Dwarvern Imperium of Fralbal
 ### Country Description

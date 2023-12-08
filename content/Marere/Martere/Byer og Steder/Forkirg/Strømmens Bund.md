@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #By #Lokation 
 # Strømmens Bund
 Strømmens Bund er en lille kyst landsby der forbinder kontinentet Martere med resten af Verdenen 

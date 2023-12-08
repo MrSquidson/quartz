@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #Lokation 
 # Grotten
 Martere har et længere grotte system der er samler flere punkter i verdenen med hinanden.

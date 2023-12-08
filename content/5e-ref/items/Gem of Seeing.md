@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Gem of Seeing
 
 *Wondrous item, rare (requires attunement)*

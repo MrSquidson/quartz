@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Marere;
 ![[The Realm of Marere.jpg]]
 

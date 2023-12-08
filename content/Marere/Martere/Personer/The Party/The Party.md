@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 The Party consists of 7 Players
 
 #### Tricksters and Thieves

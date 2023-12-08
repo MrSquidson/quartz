@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #By #Lokation 
 # Render
 Render er en mindre by i (blank)

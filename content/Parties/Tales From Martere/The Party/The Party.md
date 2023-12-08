@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #TheParty
 The Party consists of 7 Players
 

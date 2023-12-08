@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## The Black Maple Guild
 En militær gruppe indenfor "The Dwarven Empire"
 

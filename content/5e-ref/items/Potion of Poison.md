@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Potion of Poison
 
 *Potion, uncommon*

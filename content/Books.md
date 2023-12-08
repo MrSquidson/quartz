@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # What books do you play with?
 In general we play with any books as long as you pass it by me (Magnus) for balancing/my sake
 But the following books the players are just "allowed" to pull from (Still pass it to me just to make sure though :))

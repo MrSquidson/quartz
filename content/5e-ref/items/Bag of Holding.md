@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Bag of Holding
 
 *Wondrous item, uncommon*

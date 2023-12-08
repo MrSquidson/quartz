@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 [[Dwarf|Dværg]]
 Siger ikke meget
 Virker til at være tættest med [[Dwargon Dragongrog|Dwargon]]

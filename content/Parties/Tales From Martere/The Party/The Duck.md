@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+tags:
+  - Characters
 ---
 #TheParty 
 Tilhører [[Ande Racen|"Greater Duck" racen]]

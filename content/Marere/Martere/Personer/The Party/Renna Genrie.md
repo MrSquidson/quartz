@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 En af [[Genrie Tvillingerne]]
 Søster til [[Bealin Genrie|Baelin]]
 [[Tiefling]]

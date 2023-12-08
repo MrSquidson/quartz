@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+title: Chracters
+tags:
+  - Martere
 ---
 ## Player Char
  Thorbjørn | Renna Genrie - Tiefling

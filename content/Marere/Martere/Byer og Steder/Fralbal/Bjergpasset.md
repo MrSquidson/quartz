@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #Lokation
 # Bjergpasset
 Ref. til [[Town Tabels|Tabellerne]] men convert alle personer til dyr alt efter type af NPC med undtagelse af Merchants

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Hvad der bliver sagt er sandt
 Orderne jeg siger er absolutte selv hvis det går mod hvad jeg tidligere har sagt...
 Hvis jeg laver en ruling burde det alligevel skrives ned her;

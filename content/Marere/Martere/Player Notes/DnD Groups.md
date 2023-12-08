@@ -1,5 +1,8 @@
 ---
-dg-publish: true
+title: Groups
+tags:
+  - Martere
+  - Groups
 ---
 ## The Black Maple Guild
 En militær gruppe indenfor "The Dwarven Empire"
