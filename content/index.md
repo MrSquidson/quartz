@@ -11,7 +11,7 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 > For English translations see [[en/English Translation Page|The English Translation Page]]
 ## Sessions
 ### 🌱 Tales From Martere
-[[content/Marere/Martere/Player Notes/Sessions/Session 1|Session 1]] - "An unlikely encounter"
+[[Marere/Martere/Player Notes/Sessions/Session 1|Session 1]] - "An unlikely encounter"
 
 [[Marere/Martere/Player Notes/Sessions/Session 2|Session 2]] - "Ambushed!"
 
