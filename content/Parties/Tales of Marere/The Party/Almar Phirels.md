@@ -1,3 +1,10 @@
+---
+title: Almar Phirels
+tags:
+  - PC
+  - Marere
+---
+
 > [!infobox|right]
 > # Thorbjørn -
 > # Almar Phirels
