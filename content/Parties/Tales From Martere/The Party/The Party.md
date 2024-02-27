@@ -15,5 +15,5 @@ The Party consists of 7 Players
 - Seba - [[Jhaan Wolfris]] - [[Ranger]] - [[Elf|Elver]]
 
 #### One off characters;
-- Johannes - [[Freif Leel]] - [[Monk]] - [[Human|Variant Human]]
+- Johannes - [[content/Parties/Tales From Martere/One off characters/Freif Leel]] - [[Monk]] - [[Human|Variant Human]]
 - 

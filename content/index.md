@@ -32,14 +32,14 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 [[Marere/Det Hellige Rige Skeltand/Player Notes/Sessions/Session 1|Session 1]] - "Hidden Rooms and Holy Fire"
 
 ## The Parties
-[[Parties/Tales From Martere/The Party/The Party|Martere]] - The Quirky and cool people playing on the Isle of Martere
+[[Parties/Tales From Martere/|Martere]] - The Quirky and cool people playing on the Isle of Martere
 
-[[Parties/Tales of Marere/The Party|Marere]] - The insane people roaming the continent of Marere
+[[Parties/Tales of Marere/|Marere]] - The insane people roaming the continent of Marere
 
 ## Rules and Information
 [[Quick Noter - Bredt om verdenen/DM Rulings|DM Rulings]]
 
-[[Quick Noter - Bredt om verdenen/Maps|Maps]] - Get a glimse of the world
+[[Quick Noter - Bredt om verdenen/Maps|Maps]] - Get a glimpse of the world
 
 [[Quick Noter - Bredt om verdenen/Teleportation|Notes on Teleportation]]
 

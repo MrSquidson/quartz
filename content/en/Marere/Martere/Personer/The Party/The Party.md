@@ -14,5 +14,5 @@ The Party consists of 7 Players
 - Seba - [[Jhaan Wolfris]] - [[Ranger]] - [[Elf|Elver]]
 
 #### One off characters;
-- Johannes - [[Freif Leel]] - [[Monk]] - [[Human|Variant Human]]
+- Johannes - [[content/en/Marere/Martere/Personer/The Party/One off characters/Freif Leel]] - [[Monk]] - [[Human|Variant Human]]
 - 

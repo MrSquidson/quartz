@@ -1,3 +1,10 @@
+---
+title: Renna Genrie
+tags:
+  - PC
+  - Toby
+---
+
 En af [[Genrie Tvillingerne]]
 Søster til [[Bealin Genrie|Baelin]]
 [[Tiefling]]

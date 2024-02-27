@@ -17,7 +17,7 @@ En anden bog er ret normal dog kan hun kunne mærke der var noget magi aura.
 [[Dwargon Dragongrog|Dwargon]] sniger sig ind i et rum med absolut ingen i rummet. 
 [[The Duck|Anas]] skubber døren lige så stille og får et sværd til døren. [[Leela Wolfris|Leela]] vil gerne skyde igennem en sprække i døren, men rammer døren.
 
-[[Dwargon Dragongrog|Dwargon]] går igennem sprækken og finder [[Freif Leel|en meget hvid mand]] der lå og sov. 
+[[Dwargon Dragongrog|Dwargon]] går igennem sprækken og finder [[content/Marere/Martere/Personer/The Party/One off characters/Freif Leel|en meget hvid mand]] der lå og sov. 
 [[The Duck|Anas]] bruger spritual weapon og laver en pil. Prøver skyde den og lige ved at ramme stenen over døren. Rammer gennem døren stadig og ligger bare på jorden. Vi har fucking begået krigs forbrydelser.
 
 Vi går videre ind i grotten, splitter op til to veje. [[Leela Wolfris|Leela]] ser at der en fælde or mdsat til [[Jhaan Wolfris|Jhaan]] som ikke ser en skid og tager poison damage.

@@ -4,30 +4,30 @@ tags:
   - Martere
 ---
 # Session 1
-Møder [[The Party|alle]] i [[Frallige]]
+Møder [[content/Parties/Tales From Martere/The Party/The Party|The Party]] i [[content/Marere/Martere/Byer og Steder/Fralbal/Frallige|Frallige]]
 
 
-[[Dwargon Dragongrog|Dwargon]] blev stjålet penge fra i en krog
-
-  
-Fik underskrevet kontrakt om arbejde i [[Farlberg]]. Møde en person der hedder Heinrich der.
+[[content/Parties/Tales From Martere/The Party/Dwargon Dragongrog|Dwargon]] blev stjålet penge fra i en krog
 
   
-Vi når tilbage til [[Frallige]] til at finde en vogn til at rejse til Farlberg. Fucking [[The Duck|Anas]] bruger guidance til at finde vogn, men bliver ledt til fucking markedet i stedet.
+Fik underskrevet kontrakt om arbejde i [[content/Marere/Martere/Byer og Steder/Fralbal/Farlberg|Farlberg]]. Møde en person der hedder Heinrich der.
+
+  
+Vi når tilbage til [[content/Marere/Martere/Byer og Steder/Fralbal/Frallige|Frallige]] til at finde en vogn til at rejse til Farlberg. Fucking [[content/Parties/Tales From Martere/The Party/The Duck|The Duck]] bruger guidance til at finde vogn, men bliver ledt til fucking markedet i stedet.
 
 
-[[The Duck|Anas]] finder mad og , Dværgen ved boden prøver at komme over boden, men kan ikke. [[The Duck|Anas]] sniger ud successfuldt.
+Anas finder mad og , Dværgen ved boden prøver at komme over boden, men kan ikke. Anas sniger ud successfuldt.
   
 
-[[Jhaan Wolfris|Jhaan]] finder en bog butik, men kun 2 bøger til salg. En bog omkring hjulet og en bog om en princesse... ubrugeligt
+[[content/Parties/Tales From Martere/The Party/Jhaan Wolfris|Jhaan]] finder en bog butik, men kun 2 bøger til salg. En bog omkring hjulet og en bog om en princesse... ubrugeligt
 
 
-[[Renna Genrie|Renna]] leder efter [[Bealin Genrie|Bealin]] og [[The Duck|Anas]]. [[Renna Genrie|Renna]] finder [[The Duck|Anas]] og biver guidet til at finde Bealin.
+[[content/Parties/Tales From Martere/The Party/Renna Genrie|Renna]] leder efter [[Bealin Genrie|Bealin]] og [[The Duck|Anas]]. [[Renna Genrie|Renna]] finder [[The Duck|Anas]] og biver guidet til at finde Bealin.
 
 Finder Bealin og får ham over til Vogn stedet, men [[The Duck|Anas]] går modsat vej og går til en rustning butik. [[Renna Genrie|Renna]] følger med.
 
 
-[[Dwargon Dragongrog|Dwargon]] og [[Thorin Ironfist|Thorin]] efter noget at drikke, men Thorin husker på en restaurant men kun en 10 minutters gårtur fra vognestedet. De venter i stedet ved vognstedet
+[[content/Parties/Tales From Martere/The Party/Dwargon Dragongrog|Dwargon]] og [[Thorin Ironfist|Thorin]] efter noget at drikke, men Thorin husker på en restaurant men kun en 10 minutters gårtur fra vognestedet. De venter i stedet ved vognstedet
 
 
 [[Jhaan Wolfris|Jhaan]] finder en butik med skilt omkring "magic items" og går ind. Han finder en Gnom der næsten aldrig får noget at spise, sælger Jhaan en ring der holder ham "varm" som hedder "Ring of Warmth".

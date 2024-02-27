@@ -1,3 +1,10 @@
+---
+title: Leela Wolfris
+tags:
+  - PC
+  - Liv
+---
+
 [[Elf|Elver]]
 Søster til [[Jhaan Wolfris|Jhaan]]
 Har en lille fugl som companion
