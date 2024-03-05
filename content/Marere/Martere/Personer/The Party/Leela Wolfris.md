@@ -6,7 +6,7 @@ tags:
 ---
 
 [[Elf|Elver]]
-Søster til [[Jhaan Wolfris|Jhaan]]
+Søster til [[content/Marere/Martere/Personer/The Party/Jhaan Wolfris|Jhaan]]
 Har en lille fugl som companion
 
 Forstod Ų̴̞͕̞̙̗̯̰̰̳̥̙̈́̃̒̇̃̽̽k̵̢̻͓̼͍͎̦̝̀̒͂̀̚ẻ̸̢̧̗̞̯̙͓̳̻̀̎̈́̽̕͝ṇ̶̲̺̰̙͆͋̐͗d̴̙̪̱̜̝͆͑̇͜͝t̷̞̝͌̓̐̇̂͛̒̎͘͝e ̶̩̙͐̂̓̆̓̔̐͐̉́̐̓̿̈ Skrifter

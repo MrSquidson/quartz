@@ -4,5 +4,5 @@ tags:
 ---
 #TheParty 
 En af [[Genrie Tvillingerne]]
-Bror til [[Renna Genrie|Renna]] 
+Bror til [[content/Parties/Tales From Martere/The Party/Renna Genrie|Renna]] 
 [[Tiefling]] 

@@ -4,7 +4,7 @@ tags:
 ---
 #TheParty 
 [[Elf|Elver]]
-Søster til [[Jhaan Wolfris|Jhaan]]
+Søster til [[content/Parties/Tales From Martere/Dead/Jhaan Wolfris|Jhaan]]
 Har en lille fugl som companion
 
 Forstod Ų̴̞͕̞̙̗̯̰̰̳̥̙̈́̃̒̇̃̽̽k̵̢̻͓̼͍͎̦̝̀̒͂̀̚ẻ̸̢̧̗̞̯̙͓̳̻̀̎̈́̽̕͝ṇ̶̲̺̰̙͆͋̐͗d̴̙̪̱̜̝͆͑̇͜͝t̷̞̝͌̓̐̇̂͛̒̎͘͝e ̶̩̙͐̂̓̆̓̔̐͐̉́̐̓̿̈ Skrifter

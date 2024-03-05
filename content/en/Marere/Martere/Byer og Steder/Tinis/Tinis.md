@@ -6,7 +6,7 @@ The country is 2nd largest in terms of population only to be outdone by the larg
 - [[Fordybning]]
 - [[Fulgle]]
 - [[Lænis]]
-- [[Marl]]
+- [[content/en/Marere/Martere/Byer og Steder/Tinis/Marl]]
 - [[Mosre]]
 - [[Render]]
 - [[Skjord]]
