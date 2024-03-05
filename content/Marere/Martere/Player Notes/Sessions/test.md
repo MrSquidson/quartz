@@ -1,0 +1,1 @@
+[[../../../../Parties/Tales From Martere/The Party/Renna Genrie|Renna Genrie]] kaster [[../../../../5e-ref/spells/Fireball|Fireball]] 
