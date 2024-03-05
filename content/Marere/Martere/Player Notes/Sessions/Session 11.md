@@ -1,5 +1,10 @@
+---
+title: Session 11
+tags:
+  - Notes
+---
 # Session 11
-### 04/03/2024
+**04/03/2024**
 
 [[content/Parties/Tales From Martere/The Party/Renna Genrie|Renna]], [[content/Parties/Tales From Martere/The Party/Magna|Magna]], [[content/Parties/Tales From Martere/The Party/The Duck|Anas]], [[content/Parties/Tales From Martere/The Party/Pofan|Pofan]] og [[content/Parties/Tales From Martere/The Party/Ekron|Ekron]] går ned af trapperne for at finde [[content/Parties/Tales From Martere/The Party/Leela Wolfris|Leela]]. Da de går ned af trapperne sparker Magna
 
