@@ -23,13 +23,13 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 
 [[en/Marere/Martere/Player Notes/Sessions/Session 6|Session 6]] - "Deals and Handshakes"
 
-[[en/Marere/Martere/Player Notes/Sessions/Session 7|Session 7]] - ""
+[[en/Marere/Martere/Player Notes/Sessions/Session 7|Session 7]] - "Bygone friends and losses too soon"
 
-[[en/content/Marere/Martere/Player Notes/Sessions/Session 8 - 9|Session 8 - 9]] - ""
+[[en/content/Marere/Martere/Player Notes/Sessions/Session 8 - 9|Session 8 - 9]] - "Dirty Dealings and Untimely Allies"
 
-[[en/content/Marere/Martere/Player Notes/Sessions/Session 10|Session 10]] - ""
+[[en/content/Marere/Martere/Player Notes/Sessions/Session 10|Session 10]] - "Jailbreak pt. 1"
 
-[[en/content/Marere/Martere/Player Notes/Sessions/Session 11|Session 11]] - ""
+[[en/content/Marere/Martere/Player Notes/Sessions/Session 11|Session 11]] - "Jailbreak pt. 2"
 
 ### 🌱 Tales of Marere
 [[Marere/Det Hellige Rige Skeltand/Player Notes/Sessions/Session 1|Session 1]] - "Hidden Rooms and Holy Fire"
