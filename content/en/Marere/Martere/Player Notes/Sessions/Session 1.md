@@ -4,10 +4,9 @@ tags:
   - Martere
 ---
 # Session 1
-Møder [[The Party|alle]] i [[Frallige]]
+[[../../../../../Parties/Tales From Martere/The Party/The Party|The Party]] meets in the city of [[../../Byer og Steder/Fralbal/Frallige|Frallige]]
 
-
-[[content/Marere/Martere/Personer/The Party/Dwargon Dragongrog|Dwargon]] blev stjålet penge fra i en krog
+[[../../../../../Parties/Tales From Martere/Dead/Dwargon Dragongrog|Dwargon]] gets some petty cash stolen from him
 
   
 Fik underskrevet kontrakt om arbejde i [[Farlberg]]. Møde en person der hedder Heinrich der.
