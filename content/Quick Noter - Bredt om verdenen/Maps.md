@@ -7,5 +7,3 @@
 ## Martere;
 ![[Map.png]]
 
-# Tinis
-![[Tinis Hovedst..jpg]]

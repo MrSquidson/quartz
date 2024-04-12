@@ -31,13 +31,14 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 
 [[Marere/Martere/Player Notes/Sessions/Session 11|Session 11]] - "Jailbreak pt. 2"
 
+[[Marere/Martere/Player Notes/Sessions/Session 12|Session 12]] - "Roc Soup"
 ### 🌱 Tales of Marere
 [[Marere/Det Hellige Rige Skeltand/Player Notes/Sessions/Session 1|Session 1]] - "Hidden Rooms and Holy Fire"
 
 ## The Parties
-[[content/Parties/Martere|Martere]] - The Quirky and cool people playing on the Isle of Martere
+[[Parties/Martere|Martere]] - The Quirky and cool people playing on the Isle of Martere
 
-[[content/Parties/Marere|Marere]] - The insane people roaming the continent of Marere
+[[Parties/Marere|Marere]] - The insane people roaming the continent of Marere
 
 ## Rules and Information
 [[Quick Noter - Bredt om verdenen/DM Rulings|DM Rulings]]
