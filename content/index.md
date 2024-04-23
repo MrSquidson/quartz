@@ -48,3 +48,8 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 [[Quick Noter - Bredt om verdenen/Teleportation|Notes on Teleportation]]
 
 [[Books]] - What books do we play with?
+
+### DM Pages
+*HEY! What are you looking down here for?*
+[[Quick Noter - Bredt om verdenen/DM Pages/Are you sure|DM Pages]]
+
