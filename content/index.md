@@ -32,8 +32,10 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 [[Marere/Martere/Player Notes/Sessions/Session 11|Session 11]] - "Jailbreak pt. 2"
 
 [[Marere/Martere/Player Notes/Sessions/Session 12|Session 12]] - "Roc Soup"
-### 🌱 Tales of Marere
-[[Marere/Det Hellige Rige Skeltand/Player Notes/Sessions/Session 1|Session 1]] - "Hidden Rooms and Holy Fire"
+
+### Tending the Flame
+[[Parties/Tending the Flame/Tending the Flame Backstories|Tending the Flame Backstories]] - Player backstories. 
+*Please do not read each other's backstories without agreed upon permission...*
 
 ## The Parties
 [[Parties/Martere|Martere]] - The Quirky and cool people playing on the Isle of Martere
@@ -48,6 +50,10 @@ Here you'll find the notes and accounts of a faraway land known only as Marere
 [[Quick Noter - Bredt om verdenen/Teleportation|Notes on Teleportation]]
 
 [[Books]] - What books do we play with?
+
+## Dead Campaigns
+### 🌱 Tales of Marere
+[[Marere/Det Hellige Rige Skeltand/Player Notes/Sessions/Session 1|Session 1]] - "Hidden Rooms and Holy Fire"
 
 ### DM Pages
 *HEY! What are you looking down here for?*
